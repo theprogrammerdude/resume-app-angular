@@ -1,0 +1,14 @@
+.topBtn {
+  position: fixed;
+  bottom: 100px;
+  right: 50px;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 15px;
+  border: none;
+  background: transparent;
+}
+
+.topBtn:hover {
+  cursor: pointer;
+}

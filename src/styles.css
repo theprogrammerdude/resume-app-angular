@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import "./assets/css/bootstrap.css";
+@import "./assets/vendors/linericon/style.css";
+@import "./assets/css/font-awesome.min.css";
+/* @import "./assets/vendors/owl-carousel/owl.carousel.min.css"; */
+@import "./assets/css/magnific-popup.css";
+@import "./assets/vendors/nice-select/css/nice-select.css";
+@import "./assets/css/style.css";

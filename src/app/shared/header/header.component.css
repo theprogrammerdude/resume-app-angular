@@ -1,0 +1,18 @@
+@media (max-width: 991px) {
+  .header_area .navbar {
+    background: #fff;
+    text-align: center;
+  }
+
+  .navbar-toggler span {
+    display: block;
+    width: 25px;
+    height: 3px;
+    background: #854fee;
+    margin: auto;
+    margin-bottom: 4px;
+    -webkit-transition: all 400ms linear;
+    transition: all 400ms linear;
+    cursor: pointer;
+  }
+}
